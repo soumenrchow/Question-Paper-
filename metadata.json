@@ -1,0 +1,5 @@
+{
+  "name": "QuestGen: Skill-Based Exam Creator",
+  "description": "Generate professional, skill-based question papers from chapters in PDF, Image, or ZIP formats. Customize marks, difficulty, and download as PDF.",
+  "requestFramePermissions": []
+}
